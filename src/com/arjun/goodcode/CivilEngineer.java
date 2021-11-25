@@ -1,6 +1,6 @@
 package com.arjun.goodcode;
 
-public class CivilEngineer {
+public class CivilEngineer implements Salary{
     private String typeOfWork;
     private int salary;
 
@@ -8,7 +8,7 @@ public class CivilEngineer {
         System.out.println("Every Civi Engineer has a different salary.");
     }
 
-    public void setSalary(int salary) {
+    public void setSalary(int salary){
         this.salary = salary;
     }
 
@@ -19,4 +19,5 @@ public class CivilEngineer {
     public String getTypeOfWork() {
         return typeOfWork;
     }
+
 }

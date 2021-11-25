@@ -1,6 +1,6 @@
 
-k
-java:S1450"URemove the "salary" field and declare it as a local variable in the relevant methods.(×„ë‡
+r
+java:S1450"URemove the "salary" field and declare it as a local variable in the relevant methods.(×„ë‡8Ôçô­Õ/
 S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÑóÊûÿÿÿÿ
 @
 java:S1068"*Remove this unused "salary" private field.(×„ë‡
